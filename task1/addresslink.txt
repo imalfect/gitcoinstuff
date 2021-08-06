@@ -1,0 +1,2 @@
+Hi! Here's my address link on testnet!
+https://explorer.nervos.org/aggron/address/ckt1qyqxx50yv4zeagcq7tn6e9ucfgaut7fyllzsxdfgvy
